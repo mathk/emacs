@@ -1,0 +1,3 @@
+[submodule "package/yasnippet"]
+	path = package/yasnippet
+	url = git://github.com/emacsmirror/yasnippet.git
