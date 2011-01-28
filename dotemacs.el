@@ -14,3 +14,5 @@
 (vendor 'auto-complete)
 (vendor 'smart-tab)
 (vendor 'yasnippet)
+;; maybe add autopair
+;; maybe erc
