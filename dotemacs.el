@@ -9,3 +9,6 @@
 
 (load "defun")
 (load "global")
+
+(vendor 'smart-tab)
+(vendor 'yasnippet)
