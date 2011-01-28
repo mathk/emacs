@@ -10,3 +10,6 @@
 [submodule "package/auto-complete"]
 	path = package/auto-complete
 	url = git://github.com/m2ym/auto-complete.git
+[submodule "package/magit"]
+	path = package/magit
+	url = git://github.com/philjackson/magit.git
