@@ -10,5 +10,6 @@
 (load "defun")
 (load "global")
 
+(vendor 'auto-complete)
 (vendor 'smart-tab)
 (vendor 'yasnippet)
