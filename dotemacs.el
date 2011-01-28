@@ -10,6 +10,7 @@
 (load "defun")
 (load "global")
 
+(vendor 'magit)
 (vendor 'auto-complete)
 (vendor 'smart-tab)
 (vendor 'yasnippet)
