@@ -20,7 +20,7 @@
  '(icomplete-mode t)
  '(ido-mode (quote both) nil (ido))
  '(inhibit-startup-screen t)
- '(initial-frame-alist (quote ((cursor-type bar . 5))))
+ '(initial-frame-alist (quote ((cursor-type bar . 5) (vertical-scroll-bars) (tool-bar-lines . 0) (top . 1) (left . 1) (width . 160) (height . 55))))
  '(isearch-allow-scroll t)
  '(linum-format "%d")
  '(save-place t nil (saveplace))
