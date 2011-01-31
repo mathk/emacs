@@ -10,3 +10,6 @@
 [submodule "package/magit"]
 	path = package/magit
 	url = git://github.com/philjackson/magit.git
+[submodule "package/org-mode"]
+	path = package/org-mode
+	url = git://orgmode.org/org-mode.git
