@@ -13,3 +13,6 @@
 [submodule "package/org-mode"]
 	path = package/org-mode
 	url = git://orgmode.org/org-mode.git
+[submodule "package/erc"]
+	path = package/erc
+	url = git://git.savannah.gnu.org/erc.git
