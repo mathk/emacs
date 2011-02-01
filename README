@@ -4,6 +4,10 @@ Clone the repository:
 
   ~ $ git clone git://github.com/mathk/emacs.git .emacs.d
 
+Init the submodule
+ 
+ .emacs.d $ git submodule update --init --recursive
+
 In you .emacs add the line:
 
   (load "~/.emacs.d/dotemacs.el")
