@@ -10,7 +10,8 @@
 (load "defun")
 (load "global")
 
-;(vendor 'org-mode)
+(vendor 'erc)
+(vendor 'org-mode)
 (vendor 'magit)
 (vendor 'auto-complete)
 (vendor 'smart-tab)

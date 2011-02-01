@@ -11,7 +11,9 @@
 	  (if autoload-functions
 	      (dolist (autoload-function autoload-functions)
 		(autoload autoload-function file nil t))
-	    (require library))))
+	    (condition-case nil
+		(require library)
+	      (error nil)))))
     (when (file-exists-p (concat personal ".el"))
       (load personal))))
 
