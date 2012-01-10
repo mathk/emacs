@@ -9,6 +9,8 @@
 
 (load "defun")
 (load "global")
+(load "tramp-custom")
+(load "paredit")
 
 (vendor 'erc)
 (vendor 'org-mode)
