@@ -11,6 +11,7 @@
 (load "global")
 (load "tramp-custom")
 (load "paredit")
+(load "peg")
 
 (vendor 'erc)
 (vendor 'org-mode)
